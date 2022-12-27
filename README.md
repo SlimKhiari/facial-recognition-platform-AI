@@ -1,19 +1,19 @@
-# reconnaissance-faciale
-**************************************************************************************************
-NB: veuillez aller dans le dossier "les rendus" pour voir le rendu de chacun (rapport + readme).
-***************************************************************************************************
-C'est un gestionnaire d'abscence basé sur la reconaissance faciale en python (openCv). 
-Pour visualiser les abscences des étudiants et gérer leurs conséquences, nous avons dévellopé 1 application web en Java JEE , et 1 autre en PHP (pour les personnes visiteures qui auront donc une procédure de controle différente à celle des personnes inscrites dans l'établissment)  et MySQL. Pour ouvrir/fermer la serrure de la porte, nous avons utilisé une carte arduino avec la librairie pyfirmata pour python sur ubuntu. Pour la porte, nous avons effectué une conception mécanique avec le logiciel CATIA, ensuite l'imprimée en 3D.
+# facial-recognition
+************************************************** ************************************************
+NB: please go to the "renderings" folder to see the rendering of each (report + readme).
+************************************************** **************************************************
+It is an absence manager based on facial recognition in python (openCv).
+To visualize student absences and manage their consequences, we have developed 1 web application in Java JEE, and 1 other in PHP (for visitors who will therefore have a different control procedure to that of people registered in the establishment) and MySQL. To open/close the door lock, we used an arduino board with the pyfirmata library for python on ubuntu. For the door, we made a mechanical design with CATIA software, then printed it in 3D.
 
 
-  Adrien : conception mécanique de la porte + impression 3D
+  Adrien: mechanical design of the door + 3D printing
 
-  Chahed : développement de l'application web Java JEE + MySQL
+  Chahed: development of the Java JEE + MySQL web application
 
-  Marouane : devéloppement de l'applciation en PHP pour gérer les visiteurs + MySQL
+  Marouane: development of the application in PHP to manage visitors + MySQL
 
-  Slim : reconnaissance faciale avec python + opencv + MySQL
+  Slim: facial recognition with the face recognition API (based on the SVM classifier) of python + MySQL (for the storage of presences in case of detection)
 
-  Talha : conception de la base de données MySQL + assistance au frond end
+  Talha: MySQL database design + front end support
   
-  Wassim : la mise en place de la serrure automatique avec arduino + pyfirmata + cablage
+  Wassim: setting up the automatic lock with arduino + pyfirmata + wiring
