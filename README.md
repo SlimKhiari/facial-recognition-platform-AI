@@ -1,6 +1,6 @@
 # facial-recognition
 ************************************************** ************************************************
-NB: please go to the "renderings" folder to see the rendering of each (report + readme).
+NB: please go to the "les_rendus" folder to see the rendering of each (report + readme).
 ************************************************** **************************************************
 It is an absence manager based on facial recognition in python (openCv).
 To visualize student absences and manage their consequences, we have developed 1 web application in Java JEE, and 1 other in PHP (for visitors who will therefore have a different control procedure to that of people registered in the establishment) and MySQL. To open/close the door lock, we used an arduino board with the pyfirmata library for python on ubuntu. For the door, we made a mechanical design with CATIA software, then printed it in 3D.
