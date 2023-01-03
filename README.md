@@ -8,26 +8,26 @@ To open/close the door lock, we used an arduino board with the pyfirmata library
 
 # Tasks of group members
 ## Adrien
-> Mechanical design of the door + 3D printing
+> Mechanical design of the door + 3D printing.
 
 ## Chahed
-> Development of the Java JEE + MySQL web application
+> Development of the Java JEE + MySQL web application.
 
 ## Marouane
-> Development of the application in PHP to manage visitors + MySQL
+> Development of the application in PHP to manage visitors + MySQL.
 
 ## Slim 
-> Facial recognition with the face recognition API (based on the SVM classifier) of python + MySQL (for the storage of presences in case of detection)
+> Facial recognition with the face recognition API (based on the SVM classifier) of python + MySQL (for the storage of presences in case of detection).
 
 ## Talha
-> MySQL database design + front end support
+> MySQL database design + front end support.
   
 ## Wassim
-> Setting up the automatic lock with arduino + pyfirmata + wiring
+> Setting up the automatic lock with arduino + pyfirmata + wiring.
 
 # File location
 ## "reconnaitre python" folder
-> Here we find the python code for face recognition using the face recognition API with the part to open the lock (pyfirmata)..
+> Here we find the python code for face recognition using the face recognition API with the part to open the lock (pyfirmata).
 
 ## "projet_web_jee" folder
 > Here we find the JEE application to display the absscenes of the students stored in the database.
