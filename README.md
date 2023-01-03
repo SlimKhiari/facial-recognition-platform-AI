@@ -1,4 +1,4 @@
-# facial-recognition platform 
+# Facial-recognition platform 
 
 It is an absence manager based on facial recognition in python (openCv).
 To visualize student absences and manage their consequences, we have developed 1 web application in Java JEE, and 1 other in PHP (for visitors who will therefore have a different control procedure to that of people registered in the establishment) and MySQL. 
@@ -23,6 +23,19 @@ To open/close the door lock, we used an arduino board with the pyfirmata library
   
   ## Wassim
   > Setting up the automatic lock with arduino + pyfirmata + wiring
+
+# File location
+## "reconnaitre python" folder
+ > Here we find the python code for face recognition using the face recognition API with the part to open the lock (pyfirmata)..
+
+ ## "projet_web_jee" folder
+ > Here we find the JEE application to display the absscenes of the students stored in the database.
+
+ ## "gestion-visiteur" folder
+ > Here we find the PHP application to manage visitors who are not recognized by our AI.
+
+  ## "reconnaitre sqlr" folder 
+  > Here we find the SQL queries for our database following facial recognition.
 
 ************************************************** ************************************************
 Please go to the "les_rendus" folder to see the rendering of each (report + readme).
