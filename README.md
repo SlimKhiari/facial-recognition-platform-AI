@@ -2,7 +2,7 @@
 
 It is an absence manager based on facial recognition in python.
 To visualize student absences and manage their consequences, we have developed 1 web application in Java JEE, and 1 other in PHP (for visitors who will therefore have a different control procedure to that of people registered in the establishment) and MySQL. 
-**The code is in French since it is a project carried out within the framework of our school**.
+**The code is in french since it is a project carried out within the framework of our school**.
 
 To open/close the door lock, we used an arduino board with the pyfirmata library for python on ubuntu. For the door, we made a mechanical design with CATIA software, then printed it in 3D.
 
