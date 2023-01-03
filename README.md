@@ -39,4 +39,4 @@ To open/close the door lock, we used an arduino board with the pyfirmata library
 > Here we find the SQL queries for our database following facial recognition.
  
 ## "les_rendus" folder 
-> Each of us has described his task on this project in this folder.
+> Each of us has described his task on this project in this folder (in french).
